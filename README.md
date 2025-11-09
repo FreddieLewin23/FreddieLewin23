@@ -11,10 +11,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
 </p>
 
+Ex-Quant analyst: Bank of America, summer 2025. 10 weeks
+- Non-linear rates pricing models. Parameter calibration of the SABR model
 
-Ex-Data Analyst Intern: Aramco Trading Limited
+Ex-Data Analyst Intern: Aramco Trading Limited, summer 2024. 12 weeks
 - I did the majority of my work on the Naphtha desk supporting the trader by automating data analysis tasks such as the EIA weekly PADD reports and working on time spread prediction
 
-
-Ex-Quant analyst: Bank of America
-- Non-linear rates pricing models. Parameter calibration of the SABR model
+Ex-Data Science Intern: Quant Insight, summer 2023. 4 weeks
+- Macro model feature selection. Backtesting. 
