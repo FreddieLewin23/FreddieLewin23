@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 ## 🚀 Languages and Tools I Use
 
@@ -10,6 +10,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="60"/>
 </p>
+Incoming Quantitative Trading Intern, Susquehanna International Group, summer 2026
 
 Ex-Quant analyst: Bank of America, summer 2025. 10 weeks
 - Non-linear rates pricing models. Parameter calibration of the SABR model
